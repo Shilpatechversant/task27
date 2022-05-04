@@ -8,7 +8,13 @@ input[type=number] select {
     border-radius: 4px;
     box-sizing: border-box;
   }
-  
+  .container{
+    background-color:#d18eaf;
+  }
+  .forms card
+  {
+    background-color:#d7b2d7;
+  }
   
   
   input[type=submit]:hover {
